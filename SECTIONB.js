@@ -12,7 +12,7 @@
 
 //   no 4 What is an event in JavaScript? Provide an example of how to handle a button
 // click event
-//  an event refers to any interaction or occurrence detected by the broswer
+//  an event refers to any interaction or occurrence that happens in the browser, which can be triggered byuser
 
 
 
